@@ -1,0 +1,902 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "leoacqueberge",
+    "displayName": "Léo Acqueberge",
+    "profession": "UI/UX Designer",
+    "location": "Paris",
+    "pronouns": null,
+    "byline": "UI/UX Designer in Paris",
+    "website": null,
+    "websiteURL": null,
+    "about": "I love working on projects that make people's daily lives easier and a bit more fun.\n\nAs a UI/UX, I'm a versatile generalist, delving into unexplored challenges, refining details, and assisting my team's efficiency.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Work Experience",
+      "Features",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Teams",
+      "Projects"
+    ]
+  },
+  "projects": [],
+  "sideProjects": [
+    {
+      "id": "OWw2y94bzhD4YRHLEeVX",
+      "year": "2022",
+      "heading": "3d Bcode at Self Employed",
+      "url": "https://twitter.com/leoacqueberge/status/1529731641857519616?s=20",
+      "collaborators": [],
+      "description": "3d emote for Benjamin Code (french tech youtuber) inspired of his profile picture. Flat and low poly 3d model.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 500,
+          "height": 500,
+          "url": "/content/media/3d-Bcode-at-Self-Employed-1.gif"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/3d-Bcode-at-Self-Employed-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/3d-Bcode-at-Self-Employed-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 900,
+          "height": 900,
+          "url": "/content/media/3d-Bcode-at-Self-Employed-4.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "3d Bcode",
+      "company": "Self Employed"
+    },
+    {
+      "id": "j4wDzKDQlNbShYEQeUy3",
+      "year": "2022",
+      "heading": "C0do 3d model at Self Employed",
+      "url": "https://www.behance.net/gallery/150835687/Cod0-3d-figurine",
+      "collaborators": [],
+      "description": "Created a highly detailed 3D model of a singer for use in a music video, using advanced modeling software to capture a realistic representation of the artist.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1600,
+          "height": 1066,
+          "url": "/content/media/C0do-3d-model-at-Self-Employed-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1066,
+          "height": 1600,
+          "url": "/content/media/C0do-3d-model-at-Self-Employed-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1066,
+          "height": 1600,
+          "url": "/content/media/C0do-3d-model-at-Self-Employed-3.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "C0do 3d model",
+      "company": "Self Employed"
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [
+    {
+      "id": "yfvRb9cq70ACADTigzFp",
+      "year": "2023",
+      "heading": "Clear App Icon on ClearApp",
+      "url": "https://twitter.com/UseClear/status/1669059817342640130?s=20",
+      "collaborators": [],
+      "description": "I had the opportunity to work with Clear and contribute my icon concept for their app's latest version. It was genuinely enjoyable, and I'm highly appreciative to be included alongside the other designers in the project.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 720,
+          "height": 720,
+          "url": "/content/media/Clear-App-Icon-on-ClearApp.mp4"
+        }
+      ],
+      "type": "feature",
+      "title": "Clear App Icon",
+      "publisher": "ClearApp"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "GwLm3QtfccMqjlGlK5TO",
+      "year": "2025 — 2025",
+      "heading": "Commercial Stunt at Anthogyr",
+      "url": "https://www.youtube.com/watch?v=am-VHFxNauM&t=3s",
+      "collaborators": [],
+      "description": "Executed urban stunts and roofgaps in Paris for [Anthogyr](https://www.straumann.com/anthogyr/en/home.html), a dental prosthetics company. The project encompassed two filming days: parkour sequences in Paris followed by operating room scenes in Annecy. Production management by [PVS Company](https://www.pvscompany.com/).",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 720,
+          "height": 1280,
+          "url": "/content/media/Commercial-Stunt-at-Anthogyr-1.mp4"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 1350,
+          "url": "/content/media/Commercial-Stunt-at-Anthogyr-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 1350,
+          "url": "/content/media/Commercial-Stunt-at-Anthogyr-3.jpg"
+        },
+        {
+          "type": "video",
+          "width": 1078,
+          "height": 1078,
+          "url": "/content/media/Commercial-Stunt-at-Anthogyr-4.mov"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Commercial-Stunt-at-Anthogyr-5.jpg"
+        },
+        {
+          "type": "video",
+          "width": 1080,
+          "height": 1920,
+          "url": "/content/media/Commercial-Stunt-at-Anthogyr-6.mov"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Commercial Stunt",
+      "company": "Anthogyr",
+      "location": "Paris"
+    },
+    {
+      "id": "OZ6qFFdyhs1ukH6x4lbs",
+      "year": "2024 — 2024",
+      "heading": "Ui/Ux Design at Aryze",
+      "url": "https://aryze.io/",
+      "collaborators": [],
+      "description": "I spearheaded the development of a comprehensive new design system, encompassing versatile components and assets tailored for social media platforms.\n\nLeveraging this innovative system, I executed a complete rebrand of the company's website, seamlessly integrating the newly created components, a refreshed color palette, and custom assets to align with the brand's evolving identity.\n\nTo streamline content creation, I crafted a specialized social media design system. This empowers the Community Manager to efficiently produce distinctive, on-brand content, ensuring consistency across all digital touchpoints.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1876,
+          "height": 1302,
+          "url": "/content/media/UiUx-Design-at-Aryze-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2624,
+          "height": 2152,
+          "url": "/content/media/UiUx-Design-at-Aryze-2.jpg"
+        },
+        {
+          "type": "video",
+          "width": 1000,
+          "height": 666,
+          "url": "/content/media/UiUx-Design-at-Aryze-3.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1800,
+          "height": 1080,
+          "url": "/content/media/UiUx-Design-at-Aryze-4.mp4"
+        },
+        {
+          "type": "image",
+          "width": 1716,
+          "height": 926,
+          "url": "/content/media/UiUx-Design-at-Aryze-5.jpg"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Ui/Ux Design",
+      "company": "Aryze",
+      "location": "Remote"
+    },
+    {
+      "id": "uzy15yF2rQ2LiKd3uUTJ",
+      "year": "2024 — 2024",
+      "heading": "Video editor at Le Guide Ultime",
+      "url": "https://www.leguideultimedeparis.fr/",
+      "collaborators": [],
+      "description": "I edited video content featuring culinary critiques for Paris's most renowned Instagram account dedicated to food reviews.\n\nI did some motion design to animate their logo like a glued sticker because their logo is a sticker.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1024,
+          "height": 1024,
+          "url": "/content/media/Video-editor-at-Le-Guide-Ultime-1.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1080,
+          "height": 1920,
+          "url": "/content/media/Video-editor-at-Le-Guide-Ultime-2.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1080,
+          "height": 1920,
+          "url": "/content/media/Video-editor-at-Le-Guide-Ultime-3.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1080,
+          "height": 1920,
+          "url": "/content/media/Video-editor-at-Le-Guide-Ultime-4.mp4"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Video editor",
+      "company": "Le Guide Ultime",
+      "location": "Remote"
+    },
+    {
+      "id": "F6zQMp3YistFaJgbN4MV",
+      "year": "2022 — 2024",
+      "heading": "Ui/Ux Design Consultant at Ledgity",
+      "url": "http://ledgity.com",
+      "collaborators": [],
+      "description": "Spearheaded mobile UI/UX design, leveraging advanced graphic design skills to create an intuitive and engaging user experience.\n\nCollaborated closely with development team to ensure seamless implementation of design elements and functionality.\n\nOrchestrated comprehensive community management strategy across multiple social media platforms, fostering user engagement and brand loyalty.\n\nUtilized data-driven insights to continuously refine both app design and social media approach, resulting in improved user satisfaction and increased app adoption.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1042,
+          "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1043,
+          "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-2.gif"
+        },
+        {
+          "type": "image",
+          "width": 1224,
+          "height": 874,
+          "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-3.jpg"
+        },
+        {
+          "type": "video",
+          "width": 494,
+          "height": 1080,
+          "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-4.mp4"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Ui/Ux Design Consultant",
+      "company": "Ledgity",
+      "location": "Remote"
+    },
+    {
+      "id": "bp9OQi1oJaf6uEe0oEyq",
+      "year": "2024 — 2024",
+      "heading": "Motion Design at Eliott Meunier",
+      "url": "https://www.youtube.com/@EliottMeunier/videos",
+      "collaborators": [],
+      "description": "Utilizing Adobe After Effects and Figma, I designed and animated custom visual assets to enhance the production value of Eliott's YouTube content.\n\nMy work involved creating engaging motion graphics and bespoke illustrations that aligned with the channel's aesthetic and improved viewer engagement.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 960,
+          "height": 534,
+          "url": "/content/media/Motion-Design-at-Eliott-Meunier-1.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1932,
+          "height": 1080,
+          "url": "/content/media/Motion-Design-at-Eliott-Meunier-2.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1932,
+          "height": 1080,
+          "url": "/content/media/Motion-Design-at-Eliott-Meunier-3.mp4"
+        },
+        {
+          "type": "video",
+          "width": 960,
+          "height": 534,
+          "url": "/content/media/Motion-Design-at-Eliott-Meunier-4.mp4"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Motion Design",
+      "company": "Eliott Meunier",
+      "location": "Remote"
+    },
+    {
+      "id": "OrpJcT04NLNN1U88KzSW",
+      "year": "2023 — 2023",
+      "heading": "App Icon Designer at Clear",
+      "url": "https://www.useclear.com/",
+      "collaborators": [],
+      "description": "I designed and created a unique, visually striking icon for a to-do list app, conceptualized a cloud-inspired checkmark symbol, merging functionality with aesthetics. I utilized a vibrant blue background to enhance visibility and appeal on mobile devices!",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1025,
+          "height": 596,
+          "url": "/content/media/App-Icon-Designer-at-Clear-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1025,
+          "height": 596,
+          "url": "/content/media/App-Icon-Designer-at-Clear-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 720,
+          "height": 720,
+          "url": "/content/media/App-Icon-Designer-at-Clear-3.gif"
+        }
+      ],
+      "type": "workExperience",
+      "title": "App Icon Designer",
+      "company": "Clear",
+      "location": "Remote"
+    },
+    {
+      "id": "Wi6AjuQnu0xnWv6IP0Zr",
+      "year": "2022 — 2022",
+      "heading": "Thumbnail Designer at Youtubers",
+      "url": null,
+      "collaborators": [],
+      "description": "As a YouTube Thumbnail Designer, I created visually appealing thumbnails that effectively communicated video content and enticed viewers to click and watch. I work with McFly & Carlito, Clément Desplats, Coronagym, Haidar Hussain.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 720,
+          "url": "/content/media/Thumbnail-Designer-at-Youtubers-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Thumbnail-Designer-at-Youtubers-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Thumbnail-Designer-at-Youtubers-3.jpg"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Thumbnail Designer",
+      "company": "Youtubers",
+      "location": "Remote"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "V6XOasCYBuEfdYmf1ZEz",
+      "year": "2016 — 2019",
+      "heading": "Baccalauréat in Economics and Social at Talensac",
+      "url": null,
+      "collaborators": [],
+      "description": "\"High school education at Lycée Talensac with a Baccalauréat in Economics and Social Sciences obtained in 2019",
+      "attachments": [],
+      "type": "education",
+      "degree": "Baccalauréat in Economics and Social",
+      "school": "Talensac",
+      "location": "Nantes"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "sVuIqqXYkVMF8AhSuMLB",
+      "platform": "Email",
+      "handle": "lacqueberge@gmail.com",
+      "url": "mailto:lacqueberge@gmail.com"
+    },
+    {
+      "id": "4lF7O8udIE79zmtBfWTP",
+      "platform": "Twitter",
+      "handle": "leoacqueberge",
+      "url": "https://twitter.com/leoacqueberge"
+    },
+    {
+      "id": "aeegQugRar0QDyMWv7Fw",
+      "platform": "Instagram",
+      "handle": "leoacqueberge",
+      "url": "https://instagram.com/leoacqueberge"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "TQtwjqcGLKlmGM53lfOc",
+          "year": "2025 — 2025",
+          "heading": "Ui/Ux Design at Meet Sponsors",
+          "url": "https://meetsponsors.com/",
+          "collaborators": [],
+          "description": "Executed urban stunts and roofgaps in Paris for [Anthogyr](https://www.straumann.com/anthogyr/en/home.html), a dental prosthetics company. The project encompassed two filming days: parkour sequences in Paris followed by operating room scenes in Annecy. Production management by [PVS Company](https://www.pvscompany.com/).",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1908,
+              "height": 1332, 
+              "url": "/content/media/ms4.png"
+            },
+            {
+              "type": "image",
+              "width": 804,
+              "height": 1748, 
+              "url": "/content/media/ms5.png"
+            },
+            {
+              "type": "image",
+              "width": 1640,
+              "height": 1080,
+              "url": "/content/media/ms1.png"
+            },
+            {
+              "type": "image",
+              "width": 1754,
+              "height": 1004,
+              "url": "/content/media/ms2.png"
+            },
+            {
+              "type": "image", 
+              "width": 1444,
+              "height": 1068,
+              "url": "/content/media/ms3.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Ui/Ux Design",
+          "company": "Meet Sponsors",
+          "location": "Remote"
+        },
+        {
+          "id": "GwLm3QtfccMqjlGlK5TO",
+          "year": "2025 — 2025",
+          "heading": "Commercial Stunt at Anthogyr",
+          "url": "https://www.youtube.com/watch?v=am-VHFxNauM&t=3s",
+          "collaborators": [],
+          "description": "Executed urban stunts and roofgaps in Paris for [Anthogyr](https://www.straumann.com/anthogyr/en/home.html), a dental prosthetics company. The project encompassed two filming days: parkour sequences in Paris followed by operating room scenes in Annecy. Production management by [PVS Company](https://www.pvscompany.com/).",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 720,
+              "height": 1280,
+              "url": "/content/media/Commercial-Stunt-at-Anthogyr-1.mp4"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 1350,
+              "url": "/content/media/Commercial-Stunt-at-Anthogyr-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 1350,
+              "url": "/content/media/Commercial-Stunt-at-Anthogyr-3.jpg"
+            },
+            {
+              "type": "video",
+              "width": 1078,
+              "height": 1078,
+              "url": "/content/media/Commercial-Stunt-at-Anthogyr-4.mov"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Commercial-Stunt-at-Anthogyr-5.jpg"
+            },
+            {
+              "type": "video",
+              "width": 1080,
+              "height": 1920,
+              "url": "/content/media/Commercial-Stunt-at-Anthogyr-6.mov"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Commercial Stunt",
+          "company": "Anthogyr",
+          "location": "Paris"
+        },
+        {
+          "id": "OZ6qFFdyhs1ukH6x4lbs",
+          "year": "2024 — 2024",
+          "heading": "Ui/Ux Design at Aryze",
+          "url": "https://aryze.io/",
+          "collaborators": [],
+          "description": "I spearheaded the development of a comprehensive new design system, encompassing versatile components and assets tailored for social media platforms.\n\nLeveraging this innovative system, I executed a complete rebrand of the company's website, seamlessly integrating the newly created components, a refreshed color palette, and custom assets to align with the brand's evolving identity.\n\nTo streamline content creation, I crafted a specialized social media design system. This empowers the Community Manager to efficiently produce distinctive, on-brand content, ensuring consistency across all digital touchpoints.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1876,
+              "height": 1302,
+              "url": "/content/media/UiUx-Design-at-Aryze-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2624,
+              "height": 2152,
+              "url": "/content/media/UiUx-Design-at-Aryze-2.jpg"
+            },
+            {
+              "type": "video",
+              "width": 1000,
+              "height": 666,
+              "url": "/content/media/UiUx-Design-at-Aryze-3.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1800,
+              "height": 1080,
+              "url": "/content/media/UiUx-Design-at-Aryze-4.mp4"
+            },
+            {
+              "type": "image",
+              "width": 1716,
+              "height": 926,
+              "url": "/content/media/UiUx-Design-at-Aryze-5.jpg"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Ui/Ux Design",
+          "company": "Aryze",
+          "location": "Remote"
+        },
+        {
+          "id": "uzy15yF2rQ2LiKd3uUTJ",
+          "year": "2024 — 2024",
+          "heading": "Video editor at Le Guide Ultime",
+          "url": "https://www.leguideultimedeparis.fr/",
+          "collaborators": [],
+          "description": "I edited video content featuring culinary critiques for Paris's most renowned Instagram account dedicated to food reviews.\n\nI did some motion design to animate their logo like a glued sticker because their logo is a sticker.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1024,
+              "height": 1024,
+              "url": "/content/media/Video-editor-at-Le-Guide-Ultime-1.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1080,
+              "height": 1920,
+              "url": "/content/media/Video-editor-at-Le-Guide-Ultime-2.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1080,
+              "height": 1920,
+              "url": "/content/media/Video-editor-at-Le-Guide-Ultime-3.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1080,
+              "height": 1920,
+              "url": "/content/media/Video-editor-at-Le-Guide-Ultime-4.mp4"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Video editor",
+          "company": "Le Guide Ultime",
+          "location": "Remote"
+        },
+        {
+          "id": "F6zQMp3YistFaJgbN4MV",
+          "year": "2022 — 2024",
+          "heading": "Ui/Ux Design Consultant at Ledgity",
+          "url": "http://ledgity.com",
+          "collaborators": [],
+          "description": "Spearheaded mobile UI/UX design, leveraging advanced graphic design skills to create an intuitive and engaging user experience.\n\nCollaborated closely with development team to ensure seamless implementation of design elements and functionality.\n\nOrchestrated comprehensive community management strategy across multiple social media platforms, fostering user engagement and brand loyalty.\n\nUtilized data-driven insights to continuously refine both app design and social media approach, resulting in improved user satisfaction and increased app adoption.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1042,
+              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1043,
+              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-2.gif"
+            },
+            {
+              "type": "image",
+              "width": 1224,
+              "height": 874,
+              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-3.jpg"
+            },
+            {
+              "type": "video",
+              "width": 494,
+              "height": 1080,
+              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-4.mp4"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Ui/Ux Design Consultant",
+          "company": "Ledgity",
+          "location": "Remote"
+        },
+        {
+          "id": "bp9OQi1oJaf6uEe0oEyq",
+          "year": "2024 — 2024",
+          "heading": "Motion Design at Eliott Meunier",
+          "url": "https://www.youtube.com/@EliottMeunier/videos",
+          "collaborators": [],
+          "description": "Utilizing Adobe After Effects and Figma, I designed and animated custom visual assets to enhance the production value of Eliott's YouTube content.\n\nMy work involved creating engaging motion graphics and bespoke illustrations that aligned with the channel's aesthetic and improved viewer engagement.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 960,
+              "height": 534,
+              "url": "/content/media/Motion-Design-at-Eliott-Meunier-1.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1932,
+              "height": 1080,
+              "url": "/content/media/Motion-Design-at-Eliott-Meunier-2.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1932,
+              "height": 1080,
+              "url": "/content/media/Motion-Design-at-Eliott-Meunier-3.mp4"
+            },
+            {
+              "type": "video",
+              "width": 960,
+              "height": 534,
+              "url": "/content/media/Motion-Design-at-Eliott-Meunier-4.mp4"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Motion Design",
+          "company": "Eliott Meunier",
+          "location": "Remote"
+        },
+        {
+          "id": "OrpJcT04NLNN1U88KzSW",
+          "year": "2023 — 2023",
+          "heading": "App Icon Designer at Clear",
+          "url": "https://www.useclear.com/",
+          "collaborators": [],
+          "description": "I designed and created a unique, visually striking icon for a to-do list app, conceptualized a cloud-inspired checkmark symbol, merging functionality with aesthetics. I utilized a vibrant blue background to enhance visibility and appeal on mobile devices!",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1025,
+              "height": 596,
+              "url": "/content/media/App-Icon-Designer-at-Clear-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1025,
+              "height": 596,
+              "url": "/content/media/App-Icon-Designer-at-Clear-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 720,
+              "height": 720,
+              "url": "/content/media/App-Icon-Designer-at-Clear-3.gif"
+            }
+          ],
+          "type": "workExperience",
+          "title": "App Icon Designer",
+          "company": "Clear",
+          "location": "Remote"
+        },
+        {
+          "id": "Wi6AjuQnu0xnWv6IP0Zr",
+          "year": "2022 — 2022",
+          "heading": "Thumbnail Designer at Youtubers",
+          "url": null,
+          "collaborators": [],
+          "description": "As a YouTube Thumbnail Designer, I created visually appealing thumbnails that effectively communicated video content and enticed viewers to click and watch. I work with McFly & Carlito, Clément Desplats, Coronagym, Haidar Hussain.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 720,
+              "url": "/content/media/Thumbnail-Designer-at-Youtubers-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Thumbnail-Designer-at-Youtubers-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Thumbnail-Designer-at-Youtubers-3.jpg"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Thumbnail Designer",
+          "company": "Youtubers",
+          "location": "Remote"
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "items": [
+        {
+          "id": "yfvRb9cq70ACADTigzFp",
+          "year": "2023",
+          "heading": "Clear App Icon on ClearApp",
+          "url": "https://twitter.com/UseClear/status/1669059817342640130?s=20",
+          "collaborators": [],
+          "description": "I had the opportunity to work with Clear and contribute my icon concept for their app's latest version. It was genuinely enjoyable, and I'm highly appreciative to be included alongside the other designers in the project.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 720,
+              "height": 720,
+              "url": "/content/media/Clear-App-Icon-on-ClearApp.mp4"
+            }
+          ],
+          "type": "feature",
+          "title": "Clear App Icon",
+          "publisher": "ClearApp"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "OWw2y94bzhD4YRHLEeVX",
+          "year": "2022",
+          "heading": "3d Bcode at Self Employed",
+          "url": "https://twitter.com/leoacqueberge/status/1529731641857519616?s=20",
+          "collaborators": [],
+          "description": "3d emote for Benjamin Code (french tech youtuber) inspired of his profile picture. Flat and low poly 3d model.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 500,
+              "height": 500,
+              "url": "/content/media/3d-Bcode-at-Self-Employed-1.gif"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/3d-Bcode-at-Self-Employed-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/3d-Bcode-at-Self-Employed-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 900,
+              "height": 900,
+              "url": "/content/media/3d-Bcode-at-Self-Employed-4.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "3d Bcode",
+          "company": "Self Employed"
+        },
+        {
+          "id": "j4wDzKDQlNbShYEQeUy3",
+          "year": "2022",
+          "heading": "C0do 3d model at Self Employed",
+          "url": "https://www.behance.net/gallery/150835687/Cod0-3d-figurine",
+          "collaborators": [],
+          "description": "Created a highly detailed 3D model of a singer for use in a music video, using advanced modeling software to capture a realistic representation of the artist.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1600,
+              "height": 1066,
+              "url": "/content/media/C0do-3d-model-at-Self-Employed-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1066,
+              "height": 1600,
+              "url": "/content/media/C0do-3d-model-at-Self-Employed-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1066,
+              "height": 1600,
+              "url": "/content/media/C0do-3d-model-at-Self-Employed-3.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "C0do 3d model",
+          "company": "Self Employed"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "V6XOasCYBuEfdYmf1ZEz",
+          "year": "2016 — 2019",
+          "heading": "Baccalauréat in Economics and Social at Talensac",
+          "url": null,
+          "collaborators": [],
+          "description": "\"High school education at Lycée Talensac with a Baccalauréat in Economics and Social Sciences obtained in 2019",
+          "attachments": [],
+          "type": "education",
+          "degree": "Baccalauréat in Economics and Social",
+          "school": "Talensac",
+          "location": "Nantes"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "sVuIqqXYkVMF8AhSuMLB",
+          "platform": "Email",
+          "handle": "lacqueberge@gmail.com",
+          "url": "mailto:lacqueberge@gmail.com"
+        },
+        {
+          "id": "4lF7O8udIE79zmtBfWTP",
+          "platform": "Twitter",
+          "handle": "leoacqueberge",
+          "url": "https://twitter.com/leoacqueberge"
+        },
+        {
+          "id": "aeegQugRar0QDyMWv7Fw",
+          "platform": "Instagram",
+          "handle": "leoacqueberge",
+          "url": "https://instagram.com/leoacqueberge"
+        }
+      ]
+    }
+  ]
+}
