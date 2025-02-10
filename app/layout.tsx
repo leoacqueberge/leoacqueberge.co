@@ -25,9 +25,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-  <link rel="shortcut icon" href="/favicon.ico" />
-  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="shortcut icon" href="/pfp.ico" />
+  <link rel="icon" type="image/x-icon" href="/pfp.ico" />
+  <link rel="icon" type="image/png" href="/pfp.png" />
 </head>
       <body className={`${inter.variable} font-sans`}>
         {children}
