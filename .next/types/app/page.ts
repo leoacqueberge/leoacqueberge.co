@@ -1,4 +1,4 @@
-// File: /Users/leoacqueberge/Downloads/readcv-nextjs-export-feb-8-2025/app/page.tsx
+// File: /Users/leoacqueberge/Downloads/leoacqueberge.co/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
