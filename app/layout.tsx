@@ -24,6 +24,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" type="image/png" href="/public/content/media/profilePhoto.jpg" />
+      </head>
       <body className={`${inter.variable} font-sans`}>
         {children}
       </body>

@@ -54,8 +54,3 @@ a {
     color-scheme: dark;
   }
 }
-
-a svg {
-  color: white !important;
-  fill: white !important;
-}
