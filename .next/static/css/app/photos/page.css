@@ -1,0 +1,18 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/photos/page.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
+.page_container__RafHK {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.page_container__RafHK h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.page_container__RafHK p {
+  font-size: 1.1rem;
+  color: #666;
+} 
