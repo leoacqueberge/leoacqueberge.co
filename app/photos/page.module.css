@@ -1,5 +1,5 @@
 .container {
-  padding: 2rem;
+  padding: 0;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -12,4 +12,77 @@
 .container p {
   font-size: 1.1rem;
   color: #666;
+}
+
+.photoGrid {
+  columns: 5;
+  column-gap: 7px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  line-height: 0;
+}
+
+@media (max-width: 1024px) {
+  .photoGrid {
+    columns: 4;
+  }
+}
+
+@media (max-width: 768px) {
+  .photoGrid {
+    columns: 2;
+  }
+
+  .container {
+    padding: 0;
+  }
+}
+
+.photoWrapper {
+  position: relative;
+  width: 100%;
+  break-inside: avoid;
+  margin-bottom: 7px;
+  display: inline-block;
+  cursor: pointer;
+  line-height: 0;
+}
+
+.photo {
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 7px;
+  display: block;
+  line-height: 0;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modalContent {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalImage {
+  width: auto !important;
+  height: auto !important;
+  max-width: 70% !important;
+  max-height: 80vh !important;
+  object-fit: contain;
+  display: block;
 } 
