@@ -262,7 +262,7 @@
     },
     {
       "id": "F6zQMp3YistFaJgbN4MV",
-      "year": "2022 — 2024",
+      "year": "2022 — 2025",
       "heading": "Ui/Ux Design Consultant at Ledgity",
       "url": "http://ledgity.com",
       "collaborators": [],
@@ -291,6 +291,12 @@
           "width": 494,
           "height": 1080,
           "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-4.mp4"
+        },
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 922,
+          "url": "/content/media/ledgity icon liquid glass.jpg"
         }
       ],
       "type": "workExperience",
@@ -649,6 +655,12 @@
               "width": 494,
               "height": 1080,
               "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-4.mp4"
+            },
+            {
+              "type": "image",
+              "width": 1024,
+              "height": 1024,
+              "url": "/content/media/ledgity icon liquid glass.jpg"
             }
           ],
           "type": "workExperience",
