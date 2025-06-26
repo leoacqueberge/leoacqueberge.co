@@ -100,6 +100,18 @@
       "type": "sideProject",
       "title": "C0do 3d model",
       "company": "Self Employed"
+    },
+    {
+      "id": "ecussonSwiftApp",
+      "year": "2025",
+      "heading": "Ecusson — iOS Expense Tracker App",
+      "url": null,
+      "collaborators": [],
+      "description": "I developed an iOS app in Swift called Ecusson that allows users to easily track their expenses with a minimalist and fully native iOS interface.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Ecusson",
+      "company": null
     }
   ],
   "exhibitions": [],
