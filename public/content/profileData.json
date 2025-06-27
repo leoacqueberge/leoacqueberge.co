@@ -102,16 +102,35 @@
       "company": "Self Employed"
     },
     {
-      "id": "ecussonSwiftApp",
-      "year": "2025",
-      "heading": "Ecusson — iOS Expense Tracker App",
-      "url": null,
+      "id": "j4wDzKDQlNbShYEQeUy3",
+      "year": "2022",
+      "heading": "C0do 3d model at Self Employed",
+      "url": "https://www.behance.net/gallery/150835687/Cod0-3d-figurine",
       "collaborators": [],
-      "description": "I developed an iOS app in Swift called Ecusson that allows users to easily track their expenses with a minimalist and fully native iOS interface.",
-      "attachments": [],
+      "description": "Created a highly detailed 3D model of a singer for use in a music video, using advanced modeling software to capture a realistic representation of the artist.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1600,
+          "height": 1066,
+          "url": "/content/media/C0do-3d-model-at-Self-Employed-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1066,
+          "height": 1600,
+          "url": "/content/media/C0do-3d-model-at-Self-Employed-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1066,
+          "height": 1600,
+          "url": "/content/media/C0do-3d-model-at-Self-Employed-3.jpg"
+        }
+      ],
       "type": "sideProject",
-      "title": "Ecusson",
-      "company": null
+      "title": "C0do 3d model",
+      "company": "Self Employed"
     }
   ],
   "exhibitions": [],
