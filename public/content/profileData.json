@@ -9,8 +9,8 @@
     "about": "I love working on projects that make people's daily lives easier and a bit more fun.\n\nAs a UI/UX, I'm a versatile generalist, delving into unexplored challenges, refining details, and assisting my team's efficiency.",
     "sectionOrder": [
       "Work Experience",
-      "Features",
       "Side Projects",
+      "Features",
       "Exhibitions",
       "Speaking",
       "Writing",
@@ -274,15 +274,15 @@
       "attachments": [
         {
           "type": "image",
-          "width": 1025,
-          "height": 596,
-          "url": "/content/media/App-Icon-Designer-at-Clear-1.jpg"
+          "width": 1359,
+          "height": 2736,
+          "url": "/content/media/clear_full.png"
         },
         {
           "type": "image",
-          "width": 1025,
-          "height": 596,
-          "url": "/content/media/App-Icon-Designer-at-Clear-2.jpg"
+          "width": 1359,
+          "height": 2736,
+          "url": "/content/media/clear_compact.png"
         },
         {
           "type": "image",
@@ -703,80 +703,12 @@
       "name": "Side Projects",
       "items": [
         {
-          "id": "OWw2y94bzhD4YRHLEeVX",
-          "year": "2022",
-          "heading": "3d Bcode at Self Employed",
-          "url": "https://twitter.com/leoacqueberge/status/1529731641857519616?s=20",
-          "collaborators": [],
-          "description": "3d emote for Benjamin Code (french tech youtuber) inspired of his profile picture. Flat and low poly 3d model.",
-          "attachments": [
-            {
-              "type": "image",
-              "width": 500,
-              "height": 500,
-              "url": "/content/media/3d-Bcode-at-Self-Employed-1.gif"
-            },
-            {
-              "type": "image",
-              "width": 2000,
-              "height": 2000,
-              "url": "/content/media/3d-Bcode-at-Self-Employed-2.jpg"
-            },
-            {
-              "type": "image",
-              "width": 2000,
-              "height": 2000,
-              "url": "/content/media/3d-Bcode-at-Self-Employed-3.jpg"
-            },
-            {
-              "type": "image",
-              "width": 900,
-              "height": 900,
-              "url": "/content/media/3d-Bcode-at-Self-Employed-4.jpg"
-            }
-          ],
-          "type": "sideProject",
-          "title": "3d Bcode",
-          "company": "Self Employed"
-        },
-        {
           "id": "j4wDzKDQlNbShYEQeUy3",
-          "year": "2022",
-          "heading": "C0do 3d model at Self Employed",
-          "url": "https://www.behance.net/gallery/150835687/Cod0-3d-figurine",
+          "year": "2025",
+          "heading": "Ecusson",
+          "url": "https://x.com/leoacqueberge/status/1938664062256140551",
           "collaborators": [],
-          "description": "Created a highly detailed 3D model of a singer for use in a music video, using advanced modeling software to capture a realistic representation of the artist.",
-          "attachments": [
-            {
-              "type": "image",
-              "width": 1600,
-              "height": 1066,
-              "url": "/content/media/C0do-3d-model-at-Self-Employed-1.jpg"
-            },
-            {
-              "type": "image",
-              "width": 1066,
-              "height": 1600,
-              "url": "/content/media/C0do-3d-model-at-Self-Employed-2.jpg"
-            },
-            {
-              "type": "image",
-              "width": 1066,
-              "height": 1600,
-              "url": "/content/media/C0do-3d-model-at-Self-Employed-3.jpg"
-            }
-          ],
-          "type": "sideProject",
-          "title": "C0do 3d model",
-          "company": "Self Employed"
-        },
-        {
-          "id": "j4wDzKDQlNbShYEQeUy3",
-          "year": "2022",
-          "heading": "C0do 3d model at Self Employed",
-          "url": "https://www.behance.net/gallery/150835687/Cod0-3d-figurine",
-          "collaborators": [],
-          "description": "Created a highly detailed 3D model of a singer for use in a music video, using advanced modeling software to capture a realistic representation of the artist.",
+          "description": "I designed and developed in Swift a prototype of a minimal app, where you can track your daily expenses quickly and easily, nothing more.",
           "attachments": [
             {
               "type": "video",
@@ -806,10 +738,53 @@
               "width": 1359,
               "height": 2736,
               "url": "/content/media/ecusson_widget.png"
+            },
+            {
+              "type": "image",
+              "width": 1024,
+              "height": 1024,
+              "url": "/content/media/ecusson_app_icons.png"
             }
           ],
           "type": "sideProject",
-          "title": "C0do 3d model",
+          "title": "Ecusson",
+          "company": "Self Employed"
+        },
+        {
+          "id": "OWw2y94bzhD4YRHLEeVX",
+          "year": "2025",
+          "heading": "3d Bcode at Benjamin Code",
+          "url": "https://twitter.com/leoacqueberge/status/1529731641857519616?s=20",
+          "collaborators": [],
+          "description": "3d emote for Benjamin Code (french tech youtuber) inspired of his profile picture. Flat and low poly 3d model.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 500,
+              "height": 500,
+              "url": "/content/media/3d-Bcode-at-Self-Employed-1.gif"
+            },
+            {
+              "type": "image",
+              "width": 900,
+              "height": 900,
+              "url": "/content/media/3d-Bcode-at-Self-Employed-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/3d-Bcode-at-Self-Employed-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/3d-Bcode-at-Self-Employed-3.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "3d Bcode",
           "company": "Self Employed"
         }
       ]
