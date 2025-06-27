@@ -357,13 +357,19 @@
           "heading": "Ui/Ux Design at Ledgity Yield",
           "url": "https://meetsponsors.com/",
           "collaborators": [],
-          "description": "I redesigned the brand's visual identity, refreshing the logo, color palette, and custom assets to create a more cohesive look.\n\nTo support consistency and efficiency, I developed a design system with reusable components, helping streamline the design process across platforms while keeping the brand flexible for future evolutions.",
+          "description": "I redesinged the app to something more minimalist and finance friendly. I created a custom icon set. I updated the design system.",
           "attachments": [
             {
               "type": "image",
-              "width": 1608,
-              "height": 944, 
-              "url": "/content/media/ledgity_yield_browser.jpg"
+              "width": 1512,
+              "height": 880, 
+              "url": "/content/media/ledgity_yield_dashboard.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/ledgity_yield_iphone.png"
             },
             {
               "type": "image",
@@ -373,21 +379,15 @@
             },
             {
               "type": "image",
-              "width": 1640,
-              "height": 1080,
-              "url": "/content/media/ms1.png"
+              "width": 1512,
+              "height": 880, 
+              "url": "/content/media/ledgity_yield_stake.jpg"
             },
             {
               "type": "image",
-              "width": 1754,
-              "height": 1004,
-              "url": "/content/media/ms2.png"
-            },
-            {
-              "type": "image", 
-              "width": 1444,
-              "height": 1068,
-              "url": "/content/media/ms3.png"
+              "width": 1012,
+              "height": 551, 
+              "url": "/content/media/ledgity_yield_charts.jpg"
             }
           ],
           "type": "workExperience",
@@ -411,8 +411,8 @@
             },
             {
               "type": "image",
-              "width": 804,
-              "height": 1748, 
+              "width": 1359,
+              "height": 2736, 
               "url": "/content/media/ms5.png"
             },
             {
