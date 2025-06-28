@@ -357,7 +357,7 @@
           "heading": "Ui/Ux Design at Ledgity Yield",
           "url": "https://meetsponsors.com/",
           "collaborators": [],
-          "description": "I redesinged the app to something more minimalist and finance friendly. I created a custom icon set. I updated the design system.",
+          "description": "Redesigned the app's Ul in Figma with a minimalist, finance-focused aesthetic to improve clarity and user engagement.\n\n Created a custom icon set and rebuilt the design system for consistency, scalability, and visual cohesion across the interface.",
           "attachments": [
             {
               "type": "image",
@@ -581,33 +581,31 @@
           "attachments": [
             {
               "type": "image",
-              "width": 2048,
-              "height": 1042,
-              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-1.jpg"
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/ledgity_app_home.png"
             },
             {
               "type": "image",
-              "width": 1920,
-              "height": 1043,
-              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-2.gif"
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/ledgity_app_pay.png"
+            },{
+              "type": "image",
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/ledgity_app_crypto.png"
+            },{
+              "type": "image",
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/ledgity_coupon.png"
             },
             {
               "type": "image",
               "width": 1224,
               "height": 874,
               "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-3.jpg"
-            },
-            {
-              "type": "video",
-              "width": 494,
-              "height": 1080,
-              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-4.mp4"
-            },
-            {
-              "type": "image",
-              "width": 1024,
-              "height": 1024,
-              "url": "/content/media/ledgity icon liquid glass.jpg"
             }
           ],
           "type": "workExperience",
