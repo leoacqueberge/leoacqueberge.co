@@ -589,17 +589,12 @@
               "type": "image",
               "width": 1359,
               "height": 2736,
-              "url": "/content/media/ledgity_app_pay.png"
-            },{
-              "type": "image",
-              "width": 1359,
-              "height": 2736,
               "url": "/content/media/ledgity_app_crypto.png"
             },{
               "type": "image",
               "width": 1359,
               "height": 2736,
-              "url": "/content/media/ledgity_coupon.png"
+              "url": "/content/media/ledgity_app_coupon.png"
             },
             {
               "type": "image",
