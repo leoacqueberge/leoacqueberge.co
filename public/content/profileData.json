@@ -352,6 +352,43 @@
       "name": "Work Experience",
       "items": [
         {
+          "id": "F6zQMp3YistFaJgbN4MV",
+          "year": "2022 — 2025",
+          "heading": "Ui/Ux Design Consultant at Ledgity",
+          "url": "http://ledgity.com",
+          "collaborators": [],
+          "description": "Spearheaded mobile UI/UX design, leveraging advanced graphic design skills to create an intuitive and engaging user experience.\n\nCollaborated closely with development team to ensure seamless implementation of design elements and functionality.\n\nOrchestrated comprehensive community management strategy across multiple social media platforms, fostering user engagement and brand loyalty.\n\nUtilized data-driven insights to continuously refine both app design and social media approach, resulting in improved user satisfaction and increased app adoption.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/ledgity_app_home.png"
+            },
+            {
+              "type": "image",
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/ledgity_app_crypto.png"
+            },{
+              "type": "image",
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/ledgity_app_coupon.png"
+            },
+            {
+              "type": "image",
+              "width": 1224,
+              "height": 874,
+              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-3.jpg"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Ui/Ux Design Consultant",
+          "company": "Ledgity",
+          "location": "Remote"
+        },
+        {
           "id": "TQtwjqcGLKlmGM53lfOc",
           "year": "2025 — 2025",
           "heading": "Ui/Ux Design at Ledgity Yield",
@@ -569,43 +606,6 @@
           "type": "workExperience",
           "title": "Video editor",
           "company": "Le Guide Ultime",
-          "location": "Remote"
-        },
-        {
-          "id": "F6zQMp3YistFaJgbN4MV",
-          "year": "2022 — 2025",
-          "heading": "Ui/Ux Design Consultant at Ledgity",
-          "url": "http://ledgity.com",
-          "collaborators": [],
-          "description": "Spearheaded mobile UI/UX design, leveraging advanced graphic design skills to create an intuitive and engaging user experience.\n\nCollaborated closely with development team to ensure seamless implementation of design elements and functionality.\n\nOrchestrated comprehensive community management strategy across multiple social media platforms, fostering user engagement and brand loyalty.\n\nUtilized data-driven insights to continuously refine both app design and social media approach, resulting in improved user satisfaction and increased app adoption.",
-          "attachments": [
-            {
-              "type": "image",
-              "width": 1359,
-              "height": 2736,
-              "url": "/content/media/ledgity_app_home.png"
-            },
-            {
-              "type": "image",
-              "width": 1359,
-              "height": 2736,
-              "url": "/content/media/ledgity_app_crypto.png"
-            },{
-              "type": "image",
-              "width": 1359,
-              "height": 2736,
-              "url": "/content/media/ledgity_app_coupon.png"
-            },
-            {
-              "type": "image",
-              "width": 1224,
-              "height": 874,
-              "url": "/content/media/UiUx-Design-Consultant-at-Ledgity-3.jpg"
-            }
-          ],
-          "type": "workExperience",
-          "title": "Ui/Ux Design Consultant",
-          "company": "Ledgity",
           "location": "Remote"
         },
         {
