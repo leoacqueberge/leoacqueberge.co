@@ -127,6 +127,12 @@
           "url": "/content/media/UiUx-Design-at-Aryze-3.mp4"
         },
         {
+          "type": "image",
+          "width": 1359,
+          "height": 2736,
+          "url": "/content/media/aryze_home.png"
+        },
+        {
           "type": "video",
           "width": 1800,
           "height": 1080,
@@ -542,6 +548,12 @@
             },
             {
               "type": "image",
+              "width": 1359,
+              "height": 2736,
+              "url": "/content/media/aryze_home.png"
+            },
+            {
+              "type": "image",
               "width": 2624,
               "height": 2152,
               "url": "/content/media/UiUx-Design-at-Aryze-2.jpg"
@@ -793,8 +805,14 @@
           "heading": "3d Bcode at Benjamin Code",
           "url": "https://twitter.com/leoacqueberge/status/1529731641857519616?s=20",
           "collaborators": [],
-          "description": "3d emote for Benjamin Code (french tech youtuber) inspired of his profile picture. Flat and low poly 3d model.",
+          "description": "3d emotes for Benjamin Code (french tech youtuber) inspired of his profile picture. Flat and low poly 3d models. I also made a Youtube Outro for his channel, adding tech assets to it.",
           "attachments": [
+            {
+              "type": "video",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Benjamin_Code_Outrou_smaller.mp4"
+            },
             {
               "type": "image",
               "width": 500,
