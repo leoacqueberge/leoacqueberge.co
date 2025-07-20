@@ -28,7 +28,7 @@ export default async function Image() {
           justifyContent: 'center',
         }}
       >
-        <img src={imageSrc as any} height="400"/>
+        <img src={imageSrc as any} height="630"/>
       </div>
     ),
     {
